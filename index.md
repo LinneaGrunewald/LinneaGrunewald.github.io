@@ -1,17 +1,14 @@
 ## Welcome to my website!
 
-index.md is the first article that will be shown.
 ![Cat with ice cream](cat.jpg)
 
-### Links
+### Webpage
 [About second page](about.md)
-### Images
-Careful for copyright issues.
-1. ![Image]
-2. Round brackets, then URL or file name if you've uploaded a picture in main
-3. (src)
 
-## The Welcome to GitHub Pages
+### Images
+
+
+## Welcome To Github Pages - Future References
 
 You can use the [editor on GitHub](https://github.com/LinneaGrunewald/LinneaGrunewald.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
