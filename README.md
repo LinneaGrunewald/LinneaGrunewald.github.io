@@ -1,9 +1,12 @@
 ## Welcome to my website!
-Test edit to check processing times
 
+###Images
+Careful for copyright issues.
+1. ![Image]
+2. Round brackets, then URL or file name if you've uploaded a picture in main commits
+3. (src)
 
-
-## Welcome to GitHub Pages
+## The Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/LinneaGrunewald/LinneaGrunewald.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
