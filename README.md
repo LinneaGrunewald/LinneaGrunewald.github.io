@@ -1,7 +1,7 @@
 ## Welcome to my website!
 
-###Images
-Careful for copyright issues.
+### Images
+Be careful about copyright.
 1. ![Image]
 2. Round brackets, then URL or file name if you've uploaded a picture in main commits
 3. (src)
