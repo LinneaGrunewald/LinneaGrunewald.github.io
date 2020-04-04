@@ -1,6 +1,6 @@
 ## Welcome to my website!
 
-Test for index page?
+index.md is the first article that will be shown
 
 ### Images
 Careful for copyright issues.
