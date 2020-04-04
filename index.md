@@ -1,6 +1,8 @@
 ## Welcome to my website!
 
-index.md is the first article that will be shown
+index.md is the first article that will be shown.
+![Cat with ice cream](cat.jpg)
+###Links
 [About second page](about.md)
 ### Images
 Careful for copyright issues.
