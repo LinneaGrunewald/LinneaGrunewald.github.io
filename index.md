@@ -1,12 +1,11 @@
-## Welcome to my website!
+# Welcome to my website!
 
-![Cat with ice cream](cat.jpg)
 
-### Webpage
+## Webpage Navigation
 [About second page](about.md)
 
 ### Images
-
+![Cat with ice cream](cat.jpg)
 
 ## Welcome To Github Pages - Future References
 
