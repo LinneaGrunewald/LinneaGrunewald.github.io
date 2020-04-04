@@ -1,7 +1,7 @@
 ## Welcome to my website!
 
 index.md is the first article that will be shown
-
+[About second page](about.md)
 ### Images
 Careful for copyright issues.
 1. ![Image]
