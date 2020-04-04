@@ -1,4 +1,4 @@
-# bloop bloop
-noop noop
-this is a second page for my website called "about"
+# this is a second page "about" for my website
 I am a student at HWDSB. I'm in the Gifted+ class.
+### bloop bloop
+noop noop
