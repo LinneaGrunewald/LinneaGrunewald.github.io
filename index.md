@@ -2,7 +2,7 @@
 
 Test for index page?
 
-###Images
+### Images
 Careful for copyright issues.
 1. ![Image]
 2. Round brackets, then URL or file name if you've uploaded a picture in main commits
