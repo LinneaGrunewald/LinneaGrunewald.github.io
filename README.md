@@ -2,7 +2,7 @@
 
 ### Images
 Be careful about copyright.
-1. ![Image]
+1. ![If the page won't load this text will be in its place]
 2. Round brackets, then URL or file name if you've uploaded a picture in main commits
 3. (src)
 
