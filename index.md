@@ -5,7 +5,7 @@ index.md is the first article that will be shown
 ### Images
 Careful for copyright issues.
 1. ![Image]
-2. Round brackets, then URL or file name if you've uploaded a picture in main commits
+2. Round brackets, then URL or file name if you've uploaded a picture in main
 3. (src)
 
 ## The Welcome to GitHub Pages
