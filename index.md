@@ -2,7 +2,8 @@
 
 index.md is the first article that will be shown.
 ![Cat with ice cream](cat.jpg)
-###Links
+
+### Links
 [About second page](about.md)
 ### Images
 Careful for copyright issues.
