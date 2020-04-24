@@ -18,4 +18,21 @@ Here's some stuff you'll need to know:
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link Text](url) and ![Tooltip cannot be blank](image identifier) >> Be sure to upload your image to the repository first!
+
+```
+All this looks like this:
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Primer (Youtube)](url) and
+![This is a Roman eating popcorn](imperius_popcorn.png)
