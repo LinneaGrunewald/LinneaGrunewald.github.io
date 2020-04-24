@@ -35,4 +35,6 @@ All this looks like this:
 **Bold** and _Italic_ and `Code` text
 
 [Primer (Youtube)](url) and
+
 ![This is a Roman eating popcorn](imperius_popcorn.png)
+By the way, the roman is watching you. He wants to make a website too but I don't have time to teach him so he just watches people edit the repository until he learns something.
