@@ -2,7 +2,7 @@
 
 
 ## Webpage Navigation
-[About second page](about.md)
+[Second page - About Me](about.md)
 
 ### Images
 ![Cat with ice cream](cat.jpg)
