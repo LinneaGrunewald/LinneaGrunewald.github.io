@@ -1,8 +1,8 @@
 # Welcome to my website!
 
 
-## Webpage Navigation
-[Second page - About Me](about.md)
+## Webpage Navigation Portal
+[Linnea Borealis - About Me](about.md)
 
 ### Images
 ![Cat with ice cream](cat.jpg)
