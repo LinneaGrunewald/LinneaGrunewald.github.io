@@ -1,4 +1,4 @@
-Welcome to the website. If you're going to be sticking around, please don't delete anything new.
+Welcome to the website. If you're going to be sticking around, please don't delete anything that you didn't create. Please don't touch about.md or index.md either - they're the most important parts of the website and without them the whole thing breaks.
 
 So to make a website you're going to need to know some basics. Fool around on this website first, and later on I'll set up another one. This website's code is made in a shared "repository" and I can let people in to view and edit my code. I'll make another repository later for the Mars Base thing.
 
