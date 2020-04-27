@@ -23,6 +23,12 @@ Here's some stuff you'll need to know. If you want to go into greater detail, [M
 
 :baguette_bread: a delicious French food
 
+Table:
+Col1 | Col2 | Col3
+--- | --- | ---
+text | `code` | emoji :baguette_bread:
+$500| $600 | $23541
+
 [Link Text](url) and ![Tooltip cannot be blank](image identifier) >> Be sure to upload your image to the repository first!
 
 ```
@@ -43,6 +49,11 @@ All that code ends up looking like this:
 > A quote looks like this
 
 :baguette_bread: , a delicious French food
+
+Col1 | Col2 | Col3
+--- | --- | ---
+text | `code` | emoji :baguette_bread:
+$500| $600 | $23541
 
 [Primer (Youtube)](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ)
 
