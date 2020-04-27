@@ -6,4 +6,4 @@ This is a page I made for the purposes of a sandbox portal - for a chart of ever
 
 [Finn's page](finnsandbox.md)
 
-[Ms. Ritz's page](MsRitz sandbox.md)
+[Ms.Ritz's page](MsRitzsandbox.md)
