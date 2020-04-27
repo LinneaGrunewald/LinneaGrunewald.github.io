@@ -8,4 +8,4 @@ This is a page I made for the purposes of a sandbox portal - for a chart of ever
 
 [Ms.Ritz's page](MsRitzsandbox.md)
 
-[*suspicious Link*](NLSandbox.md)
+[*suspicious Link of Nathan Laskowskiness*](NLSandbox.md)
