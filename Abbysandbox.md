@@ -8,3 +8,8 @@ _type type type_
 :apple: a tasty food
 
 :cat: just very very good
+
+## Actual work
+### Kinesiology
+In space, exercise is crucial to prevent deterioration of muscles, bones and ligaments, or osteoporis and cardiovascular dysfunction. This is why astronuats will concertrate on physical fitness for at least an hour a day.
+
