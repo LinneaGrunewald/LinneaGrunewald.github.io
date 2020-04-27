@@ -6,4 +6,5 @@ _type type type_
 `type type type`
 
 :apple: a tasty food
-:broccoli: an abomination
+
+:cat: just very very good
