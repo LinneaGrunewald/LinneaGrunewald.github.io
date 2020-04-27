@@ -1,7 +1,9 @@
-## This is a page I made for the purposes of a sandbox portal - for a chart of everyone in the class who has a sandbox page.
+This is a page I made for the purposes of a sandbox portal - for a chart of everyone in the class who has a sandbox page.
 
-[Linnea's page](about.md)
+[My page](about.md)
 
 [Abby's page](Abbysandbox.md)
 
 [Finn's page](finnsandbox.md)
+
+[Ms. Ritz's page](MsRitz sandbox.md)
