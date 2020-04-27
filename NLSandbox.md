@@ -5,10 +5,7 @@ This is h1
 </head>
 
 <body>
-<p style="color:#FFC300";>
-Yellow text
-</p>
-
+<p> PARAGRAPH AAAAA</p>
 <p>
 Second Paralelagraph (with list)
 <ul>
