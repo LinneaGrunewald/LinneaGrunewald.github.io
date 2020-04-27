@@ -19,6 +19,8 @@ Here's some stuff you'll need to know. If you want to go into greater detail, [M
 
 **Bold** and _Italic_ and `Code` text
 
+> A quote looks like this
+
 :baguette_bread: a delicious French food
 
 [Link Text](url) and ![Tooltip cannot be blank](image identifier) >> Be sure to upload your image to the repository first!
@@ -37,6 +39,8 @@ All that code ends up looking like this:
 2. List
 
 **Bold** and _Italic_ and `Code` text
+
+> A quote looks like this
 
 :baguette_bread: , a delicious French food
 
