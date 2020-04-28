@@ -17,7 +17,7 @@ Second Paralelagraph (with list)
 
 </p>
 
-<p style="font_family:georgia,garamond,serif;">
+<p style="font-family:georgia,garamond,serif;">
 Text
 </p>
 
