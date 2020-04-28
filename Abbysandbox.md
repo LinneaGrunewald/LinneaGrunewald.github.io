@@ -10,7 +10,7 @@ A high amount of radiation is very, very, dangerous. One unit of measurement for
 ### But where did it come from?
 Good question, my friend. The answer? Not so simple. Radiation is all around us. We Canadians recieve about 1.8 mSv per year just from background radiation, which is less than the 2.4 mSv average in other countries. It can be human made, from devices such as microwaves and lightbulbs, but it can also be natural, from elements in Earth's crust or the Sun.The sun is the biggest threat, as it emits all 7 forms of electromagnetic wavelengths. (radiowaves, microwaves, infrared, visible light, ultraviolet, X-rays and gamma rays.) During solar flares, large amounts of energy in the forms of X-rays, gamma rays, protons and electrons are relsead into space, an event called a solar particle event, or a SPE. These can be disatrous for astronauts and their equipment, even if they are thousands of kilometers away. 
 
-## Actual work
+## How to prevent deterioration
 ### Exercise
 In space, exercise is crucial to prevent deterioration of muscles, bones and ligaments, or osteoporis and cardiovascular dysfunction. These are (you guessed it) bad. Without proper diet and fitness regimens, bone density can decrease by 1% to 2% for every month in microgravity, and the heart is worked less heartily because of cephalad fluid lifts (aka blood isn't pulled down to your feet so you cardiac muscles don't pump as hard. This can lead to the weakening of cardiac muscles.)
 
