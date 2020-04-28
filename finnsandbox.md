@@ -1,9 +1,2 @@
-:baguette_bread:
-:baguette_bread:
-:baguette_bread:
-:baguette_bread:
-:baguette_bread: :baguette_bread: :baguette_bread:
-:baguette_bread: :baguette_bread:
-:baguette_bread: :baguette_bread: :baguette_bread:
-:baguette_bread: :baguette_bread: :baguette_bread: :baguette_bread:
-:baguette_bread: :baguette_bread: :baguette_bread: :baguette_bread: :baguette_bread:
+> aeugh
+:carrot::pufferfish:
