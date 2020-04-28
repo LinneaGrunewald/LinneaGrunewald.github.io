@@ -1,6 +1,6 @@
 <head>
 <h1>Title (with h1 not title)</h1>
-<h2>Sub-title</h2>
+<h2>Sub-title (h2)</h2>
 <title>TITLE</title>
 </head>
 
