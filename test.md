@@ -1,6 +1,5 @@
-
 # Title
 ## Subtitle
-####### Smoltitle
+###### Smoltitle
 
 *Italics* **Bold** ~~Line~~ normal ***Bold italics***
