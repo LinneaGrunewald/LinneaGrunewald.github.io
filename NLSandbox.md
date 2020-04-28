@@ -1,7 +1,10 @@
 <head>
 <h1>
-This is h1
+Title (with h1 not title)
 </h1>
+<h2>
+Sub-title
+</h2>
 </head>
 
 <body>
