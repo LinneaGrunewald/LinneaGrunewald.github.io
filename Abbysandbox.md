@@ -18,7 +18,7 @@ $7 | $8679 | $100,000 |
 ![startrek.jpg](startrek.jpg)
 
 ## Actual work
-### Kinesiology
+### Exercise
 In space, exercise is crucial to prevent deterioration of muscles, bones and ligaments, or osteoporis and cardiovascular dysfunction. These are (you guessed it) bad. Without proper diet and fitness regimens, bone density can decrease by 1% to 2% for every month in microgravity, and the heart is worked less heartily because of cephalad fluid lifts (aka blood isn't pulled down to your feet so you cardiac muscles don't pump as hard. This can lead to the weakening of cardiac muscles.)
 
 
