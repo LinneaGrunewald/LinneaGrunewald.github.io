@@ -17,8 +17,9 @@ Second Paralelagraph (with list)
 
 </p>
 
-<p style="font: courier"> Fontulicious
+<p style="font_family:georgia,garamond,serif;">
 
+</p>
 
 
 </body>
