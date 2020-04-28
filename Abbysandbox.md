@@ -15,7 +15,7 @@ Box 1 | Box 2 | Box 3 |
 $7 | $8679 | $100,000 |
 
 
-![Sherlock](Sherlock.jpg)
+![Sherlock](sherlock.jpg)
 
 ## Actual work
 ### Kinesiology
