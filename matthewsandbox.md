@@ -2,7 +2,7 @@
 ## The futuer of Astrophysics.
 ### The futuer of Astrophysics is commpletely to do with tecnoligy. Yata yata yata
 
-![headpic1.jpeg](Mattspics)
+[headpic1.jpg](Mattspics)
 
 
-[https://linneagrunewald.github.io/ClassSandboxPortal.html]()
+![https://linneagrunewald.github.io/ClassSandboxPortal.html]()
