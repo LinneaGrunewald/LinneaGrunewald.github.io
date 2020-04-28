@@ -1,5 +1,7 @@
-# Abby's page
-## I must learn
+# Space radiation
+### Source and Forms
+
+Space radiation is, simply put, atoms which have had their atoms stripped away as theya pproach the speed of light. This radiation is constantly flooding into space, and had three main forms. These are 1), particles which are trapped in Earth's magnetic field, 2), particles shot into space during solar flares, and 3), galactic cosmic rays. (new band name, right? High energy protons and heavy ions which from outside of our solar system.)
 
 **type type type**
 _type type type_
